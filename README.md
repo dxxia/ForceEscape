@@ -8,3 +8,8 @@
 1. 安装CocosCreator，最好是V1.8.1版本
 2. 打开CocosCreator，打开其他项目-选择本项目目录
 3. 双击打开assets/res/fire/game.fire场景，运行即可
+
+运行示例图片：
+![关卡1](https://github.com/dxxia/ForceEscape/tree/master/runpic/runpic_1.png)
+![关卡2](runpic/runpic_2.png)
+![关卡3](runpic/runpic_3.png)
