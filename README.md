@@ -10,6 +10,9 @@
 3. 双击打开assets/res/fire/game.fire场景，运行即可
 
 运行示例图片：
-[关卡1] (https://img.wenhairu.com/image/NhJQA)
-关卡2(runpic/runpic_2.png)
-关卡3(runpic/runpic_3.png)
+
+[关卡1](https://img.wenhairu.com/image/NhJQA)
+
+[关卡2](https://img.wenhairu.com/image/NhDAG)
+
+[关卡3](https://img.wenhairu.com/image/NhKeT)
